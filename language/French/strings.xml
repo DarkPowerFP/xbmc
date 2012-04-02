@@ -2831,5 +2831,12 @@
   <string id="36015">Numéro de port HDMI</string>
   <string id="36016">Connecté</string> <!-- max. 13 characters -->
   <string id="36017">Adaptateur trouvé, mais libcec indisponible</string>
-  <string id="36018">Utiliser le paramètre de langage de la TV.</string>
+  <string id="36018">Utiliser le paramètre de langage de la TV</string>
+  <string id="36019">Connecté au périphérique HDMI</string>
+  <string id="36020">Faire de XBMC la source active au démarrage</string>
+  <string id="36021">Adresse physique de la TV (force le port HDMI)</string>
+  <string id="36022">Port COM (laissez vide sauf si besoin)</string>
+  <string id="36023">Configuration mise à jour</string>
+  <string id="36024">Echec de paramétrage de la nouvelle configuration. Vérifiez vos paramètres.</string>
+  <string id="36025">Envoi la commande 'source inactive' lors de l'arrêt de XBMC</string>
 </strings>
